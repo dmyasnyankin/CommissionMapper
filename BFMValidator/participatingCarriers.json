@@ -1,0 +1,32 @@
+{
+    "participatingCarriers": { 
+        "AC": "Air Canada",
+        "OS": "Austrian Airlines",
+        "SN": "Brussels Airlines",
+        "LH": "Lufthansa",
+        "LX": "Swiss Air",
+        "RV": "Air Canada Rouge",
+        "EN": "Air Dolomiti",
+        "2A": "Deutsche Bahn",
+        "EW": "Eurowings",
+        "E2": "Eurowings Europe",
+        "2L": ["Valley Air Services", "Helvetic Airways"],
+        "HA": "Hawaiian Air",
+        "QK": "Jazz Aviation",
+        "KV": "Sky Regional Airlines",
+        "LZ": "Swiss Global Airlines",
+        "KM": "Air Malta",
+        "BM": "BMI Regional",
+        "LG": "LuxAir",
+        "WX": "CityJet", 
+        "WK": "Edelweiss Air",
+        "CL": "Lufthansa CityLine",
+        "UA": "United Airlines"
+    },
+    "lhgCarriers": { 
+        "OS": "Austrian Airlines",
+        "SN": "Brussels Airlines",
+        "LH": "Lufthansa",
+        "LX": "Swiss Air"
+    }
+}

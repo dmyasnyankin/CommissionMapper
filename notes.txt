@@ -1,0 +1,10 @@
+- Pass in BFM payload into CommissionMapper.run() in 'app.js'
+- Example Payload in 'tests' folder
+
+Basic File Structure
+
+`BFMOrganizer`: transforms BFM payload so its easier to work with
+`BFMValidator/Map`: builds commission table on pdf
+`BFMValidator/BFMValidator`: does section by section checks for each itinerary
+`CommissionCalc`: calculates commission based on % and base fare
+`output`: stores commissioned itineraries
